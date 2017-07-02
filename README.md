@@ -7,7 +7,7 @@
 ## Rodando
 ```
     npm i
-    npm i -g nodemon tsc
+    npm i -g nodemon typescript
     npm run build
     npm start
 

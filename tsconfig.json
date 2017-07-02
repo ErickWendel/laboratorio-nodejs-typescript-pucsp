@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "target": "es2017",
+        //caso queira rodar seu código novamente
+        "watch": true,
+        "outDir": "lib"
+
+    }
+}

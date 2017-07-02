@@ -36,4 +36,4 @@
   
 
 ## Apresentação
-    - Slides: [http://slides.com/erickwendel/nodejs-e-typescript-virada-tecnolgica-puc-sp/](http://slides.com/erickwendel/nodejs-e-typescript-virada-tecnolgica-puc-sp/fullscreen)
+    - Slides: <a href='http://slides.com/erickwendel/nodejs-e-typescript-virada-tecnolgica-puc-sp/fullscreen' target="_blank"> http://slides.com/erickwendel/nodejs-e-typescript-virada-tecnolgica-puc-sp </a>

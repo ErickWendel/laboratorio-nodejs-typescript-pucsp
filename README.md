@@ -6,6 +6,7 @@
 
 ## Rodando
 ```
+    cd demonstracao/
     npm i
     npm i -g nodemon typescript
     npm run build
